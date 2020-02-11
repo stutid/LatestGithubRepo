@@ -1,0 +1,6 @@
+framework module Pods_LatestRepoApp {
+  umbrella header "Pods-LatestRepoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
